@@ -1,0 +1,13 @@
+{
+    "name": "smart-table",
+    "version": "0.0.1",
+    "homepage": "https://github.com/eteixeira94/Smart-Table",
+    "authors": [
+	"ednardo teixeira <ednardo.lds@gmail.com (Develop)"
+    ],
+    "description": "table module for angular",
+    "main": "dist/smart-table.min.js",
+    "dependencies": {
+        "angular": "latest"
+    }
+}
